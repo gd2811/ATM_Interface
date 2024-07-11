@@ -16,14 +16,6 @@ This Java project simulates an ATM interface allowing users to check balances, w
 1. Clone the repository and navigate to the project directory.
 2. Compile the Java files:
 javac ATM.java
-
-markdown
-Copy code
 3. Run the program:
 java ATM
 4. Follow the prompts on the screen to navigate through the ATM interface.
-
-## Sample Credentials
-
-- User ID: 12345
-- Password: 12345
