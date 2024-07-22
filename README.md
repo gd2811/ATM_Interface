@@ -11,11 +11,3 @@ This Java project simulates an ATM interface allowing users to check balances, w
 - **Graceful Error Handling**: The interface provides informative messages for incorrect inputs and insufficient funds.
 - **Secure Transactions**: Password-protected access ensures secure transactions.
 
-## Usage
-
-1. Clone the repository and navigate to the project directory.
-2. Compile the Java files:
-javac ATM.java
-3. Run the program:
-java ATM
-4. Follow the prompts on the screen to navigate through the ATM interface.
